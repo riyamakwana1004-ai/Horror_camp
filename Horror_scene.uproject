@@ -20,6 +20,7 @@
 			"Enabled": true
 		},
 		{
+			"Name": "AlembicHairImporter",
 			"Name": "PCG",
 			"Enabled": true
 		},
